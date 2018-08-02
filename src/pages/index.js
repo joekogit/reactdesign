@@ -7,7 +7,7 @@ const IndexPage = () => (
       <div className="HeroGroup">
         <h1>Avant branded credit products</h1>
         <p>Pork belly ground round pork chop rump shankle capicola. Picanha cow turkey kielbasa brisket drumstick hamburger.</p>
-        <Link to="/page-2/">Go to page 2</Link>
+        <Link to="/page-2/">Watch Video</Link>
       </div>
     </div>
   </div>

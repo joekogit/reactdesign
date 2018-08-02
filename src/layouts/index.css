@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
 
 html {
   /* Set to 62.5% for easy rem resizing
@@ -18,9 +18,9 @@ body {
 }
 
 a {
+  font-weight: 600;
   color: #2382CE;
   text-decoration: none;
-  font-weight: 600;
 }
 
 .Hero {
@@ -50,10 +50,10 @@ a {
 }
 
 .Hero a {
-  padding: 0.75em 1.5em;
-  font-size: 1.7rem;
+  padding: 0.5em 1.25em;
   font-weight: 600;
   color: white;
+  text-transform: uppercase;
   background: rgba(0, 0, 0,0.7);
   border: 1px solid rgba(255, 255, 255, 0.25);
   border-radius: 2em;
